@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  margin: auto;
+  background-color: #999;
+}
+
+header {
+  padding: 20px 0 20px 0;
+  font-size: 30pt;
+  background-color: #eee;
+}
+
+header a {
+  text-align: center;
+}
+
+div{
+  margin: auto;
+  max-width: 700px;
+}
+
+span {
+  white-space: pre-line;
+  display: block;
+  margin-top: 50px;
+}
+
+.test {
+	display: flex;
+	flex-wrap: wrap;
+	color: red;
+}
